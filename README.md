@@ -50,7 +50,7 @@ $ cat /tmp/lm/output/test_result.json
 
 
 
-### 有简单的bert调用方法：
+### 上述代码是bert整个代码框架比较“大块”，当然有超级简单的bert调用方法：
 
 ```bash
 '''BERT用作语言模型，计算句子分数，检验句子的合理性与否，
